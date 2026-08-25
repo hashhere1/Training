@@ -15,3 +15,5 @@ print("Adding first commit in main branch")
 
 print("Adding second commit in main branch")
 
+print("Checking the fucntionality of git stash")
+
